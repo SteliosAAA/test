@@ -1,2 +1,4 @@
 beforeline
 gjygh
+newline
+newline2
